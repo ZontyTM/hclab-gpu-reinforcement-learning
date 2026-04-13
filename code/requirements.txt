@@ -1,0 +1,9 @@
+matplotlib
+torch
+opencv-python
+numpy
+gymnasium
+swig
+gymnasium[box2d]
+jupyter
+wandb
